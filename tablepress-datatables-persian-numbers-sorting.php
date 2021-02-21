@@ -2,7 +2,7 @@
 /*
 Plugin Name: TablePress Extension: DataTables Persian Numbers Sorting
 Plugin URI:
-Description: Sorts columns containing UTF-8 Farsi numbers
+Description: Sorts columns containing UTF-8 Persian numbers
 Version: 1.0
 Author: WordPress EzPz
 Author URI:
